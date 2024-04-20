@@ -1,2 +1,4 @@
 Carlos Alexis Rendon Sierra
-https://spectralcomet73.github.io/Practica_12/
+
+Enlace al despliegue en github pages
+- [Ir al despliegue](https://spectralcomet73.github.io/Practica_12/)
