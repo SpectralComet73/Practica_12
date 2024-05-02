@@ -1,0 +1,89 @@
+
+:root { 
+  --color-primary: #000000;
+  --color-secondary: #bb013c;
+  --background-primary: #f8f9fa;
+
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Gravitas One', serif;
+    color: #820000;
+    background-color: #000000;
+}
+
+a { 
+    color: #dc3545;
+}
+
+a:hover {
+    color: #a178e3;
+}
+
+img, iframe {
+    max-width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+/* Clases utilitarias */
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.headline {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.list {
+  list-style-type: none; 
+  padding: 0; 
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.link {
+  text-decoration: none;
+  color: #dc3545;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--color-primary);
+  background-color: var(--background-primary);
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--color-secondary);
+}
+
+
+
+
+
+
+
+
